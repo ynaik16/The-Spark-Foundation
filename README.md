@@ -1,2 +1,6 @@
 # The-Spark-Foundation
-Codings Tasks for Data Science and Business Analytics 
+Codings tasks for Data Science and Business Analytics internship 
+
+Task 1: Prediction using Supervised ML
+
+Task 2: Prediction using Unsupervised ML
